@@ -16,7 +16,7 @@
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   
-  <img align="right" alt="Edy-pic" height="150" style="border-radius:50px;" src="https://share-cdn.picrew.me/shareImg/org/202203/19138_MTNMevCK.png">
+  <img align="right" alt="Edy-pic" height="150" style="border-radius:50px;" src="https://share-cdn.picrew.me/shareImg/org/202203/1421963_D3JX7ZlC.png">
 </div>
 
 
