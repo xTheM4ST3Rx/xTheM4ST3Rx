@@ -1,6 +1,5 @@
 ### Olá Bem Vindo(a) 👋
 
-- 🔭 I’m currently working on ...
 
 <div align="center">
   <a href="https://github.com/xTheM4ST3Rx">
