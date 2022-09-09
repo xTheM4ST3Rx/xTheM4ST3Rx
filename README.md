@@ -1,3 +1,5 @@
+<img src="https://github.com/xTheM4ST3Rx/xTheM4ST3Rx/blob/main/bg.gif"/>
+
 ### 𝗠𝘆 𝗦𝘁𝗮𝗰𝗸:
 <i>𝙽𝚘𝚍𝚎𝙹S - 𝚁𝚎𝚊𝚌𝚝𝙹S - 𝙼𝚘𝚗𝚐𝚘𝙳𝙱/MySql - ExpressJS</i>
 
