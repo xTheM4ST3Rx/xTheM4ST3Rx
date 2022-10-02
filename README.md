@@ -15,7 +15,7 @@
 <i>𝙰𝚣𝚞𝚛𝚎: (Storage , Mídia Services ,Encoder, SendGrid)</i>
 
 ### 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴:
-<i>GraphQL - Apollo Server/Client - CI/CD - DevOps</i>
+<i>GraphQL - Apollo Server/Client - CI/CD - DevOps - NextJs - Threejs</i>
 
 ### 𝗦𝗵𝗼𝗿𝘁 𝗘𝘅𝗽𝗲𝗿𝗶𝗲𝗻𝗰𝗲:
 <i>Lua - PHP - React Native - Jenkins - Electron - SonarQube - Vast XML (Video Ads)  - PRISMA - NestJS</i>
