@@ -3,10 +3,10 @@
 <img src="https://github.com/xTheM4ST3Rx/xTheM4ST3Rx/blob/main/bg.gif"/>
 
 ### 𝗠𝘆 𝗦𝘁𝗮𝗰𝗸:
-<i>𝙽𝚘𝚍𝚎𝙹S - 𝚁𝚎𝚊𝚌𝚝𝙹S - 𝙼𝚘𝚗𝚐𝚘𝙳𝙱/MySql - ExpressJS</i>
+<i>𝙽𝚘𝚍𝚎𝙹S - 𝚁𝚎𝚊𝚌𝚝𝙹S - 𝙼𝚘𝚗𝚐𝚘𝙳𝙱/MySql - Typescript - NextJS</i>
 
 ### 𝗠𝗼𝘀𝘁 𝘂𝘀𝗲𝗱 𝗶𝗻 𝗺𝘆 𝗽𝗿𝗼𝗷𝗲𝗰𝘁𝘀:
-<i>Javascript - Typescript  - WebSockets - Api's Restful - React Redux - Hooks - JWT - Sequelize - Mongoose - HTML/CSS - Styled Components - Tailwind - TDD - Eslint - Jest</i>
+<i>Javascript - Typescript  - WebSockets - Api's Restful - React Redux - Hooks - JWT - Sequelize - Mongoose - HTML/CSS - Tailwind - TDD - Eslint - Prettier - Jest - NextJS</i>
 
 ### 𝗩𝗲𝗿𝘀𝗶𝗼𝗻𝗶𝗻𝗴 𝗮𝗻𝗱 𝗪𝗼𝗿𝗸𝗳𝗹𝗼𝘄:
 <i>Git - Github - Bitbucket - GitLab - GitFlow - Trello</i>
@@ -14,11 +14,14 @@
 ### 𝗖𝗹𝗼𝘂𝗱 𝗘𝘅𝗽𝗲𝗿𝗶𝗲𝗻𝗰𝗲:
 <i>𝙰𝚣𝚞𝚛𝚎: (Storage , Mídia Services ,Encoder, SendGrid)</i>
 
+### 𝗔𝗿𝗰𝗵𝗶𝘁𝗲𝗰𝘁𝘂𝗿𝗲 𝗮𝗻𝗱 𝗗𝗲𝘀𝗶𝗴𝗻:
+<i>UI/UX, SPA, SSG , SSR , StoryBooks</i>
+
 ### 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴:
 <i>GraphQL - Apollo Server/Client - CI/CD - DevOps - NextJs - Threejs</i>
 
 ### 𝗦𝗵𝗼𝗿𝘁 𝗘𝘅𝗽𝗲𝗿𝗶𝗲𝗻𝗰𝗲:
-<i>Lua - PHP - React Native - Jenkins - Electron - SonarQube - Vast XML (Video Ads)  - PRISMA - NestJS</i>
+<i>Lua - PHP - React Native - Jenkins - Electron - SonarQube - Vast XML (Video Ads)  - PRISMA - NestJS -  Aws Cloud</i>
 
 ### 𝗦𝗼𝗳𝘁 𝗦𝗸𝗶𝗹𝗹𝘀:
 <i>Criativity - Proativity- Adaptability - Emotional Intelligence - Colaboration - Critical Weighing - Learn and Learn</i>
