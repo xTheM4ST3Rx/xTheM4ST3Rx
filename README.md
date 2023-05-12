@@ -6,7 +6,7 @@
 <i>𝙽𝚘𝚍𝚎𝙹S - 𝚁𝚎𝚊𝚌𝚝𝙹S - 𝙼𝚘𝚗𝚐𝚘𝙳𝙱/MySql - Typescript - NextJS</i>
 
 ### 𝗠𝗼𝘀𝘁 𝘂𝘀𝗲𝗱 𝗶𝗻 𝗺𝘆 𝗽𝗿𝗼𝗷𝗲𝗰𝘁𝘀:
-<i>Javascript - Typescript  - WebSockets - Api's Restful - React Redux - Hooks - JWT - Sequelize - Mongoose - HTML/CSS - Tailwind - TDD - Eslint - Prettier - Jest - NextJS</i>
+<i>Javascript - Typescript  - WebSockets - Api's Restful - React Redux - Hooks - JWT - Sequelize - Mongoose - HTML/CSS - Tailwind - TDD - Eslint - Prettier - Jest - NextJS - Vite - Vercel - Supabase</i>
 
 ### 𝗩𝗲𝗿𝘀𝗶𝗼𝗻𝗶𝗻𝗴 𝗮𝗻𝗱 𝗪𝗼𝗿𝗸𝗳𝗹𝗼𝘄:
 <i>Git - Github - Bitbucket - GitLab - GitFlow - Trello</i>
