@@ -3,7 +3,7 @@
 <img src="https://github.com/xTheM4ST3Rx/xTheM4ST3Rx/blob/main/bg.gif"/>
 
 ### 𝗠𝘆 𝗦𝘁𝗮𝗰𝗸:
-<i>𝙽𝚘𝚍𝚎𝙹S - 𝚁𝚎𝚊𝚌𝚝𝙹S - 𝙼𝚘𝚗𝚐𝚘𝙳𝙱/MySql - Typescript - NextJS</i>
+<i>𝙽𝚘𝚍𝚎𝙹S - 𝚁𝚎𝚊𝚌𝚝𝙹S - Prisma - Typescript - NextJS</i>
 
 ### 𝗠𝗼𝘀𝘁 𝘂𝘀𝗲𝗱 𝗶𝗻 𝗺𝘆 𝗽𝗿𝗼𝗷𝗲𝗰𝘁𝘀:
 <i>Javascript - Typescript  - WebSockets - Api's Restful - React Redux - Hooks - JWT - Sequelize - Mongoose - HTML/CSS - Tailwind - TDD - Eslint - Prettier - Jest - NextJS - Vite - Vercel - Supabase</i>
