@@ -6,7 +6,7 @@
 <i>𝙽𝚘𝚍𝚎𝙹S - 𝚁𝚎𝚊𝚌𝚝𝙹S - Prisma - Typescript - NextJS</i>
 
 ### 𝗠𝗼𝘀𝘁 𝘂𝘀𝗲𝗱 𝗶𝗻 𝗺𝘆 𝗽𝗿𝗼𝗷𝗲𝗰𝘁𝘀:
-<i>Javascript - Typescript  - WebSockets - Api's Restful - React Redux - Hooks - JWT - Sequelize - Mongoose - HTML/CSS - Tailwind - TDD - Eslint - Prettier - Jest - NextJS - Vite - Vercel - Supabase</i>
+<i>Javascript - Typescript  - WebSockets - Api's Restful - Redux - Hooks - JWT - Sequelize - Mongoose - HTML/CSS - Tailwind - TDD - Eslint - Prettier - Jest - Vite - Vitest- Vercel - Supabase</i>
 
 ### 𝗩𝗲𝗿𝘀𝗶𝗼𝗻𝗶𝗻𝗴 𝗮𝗻𝗱 𝗪𝗼𝗿𝗸𝗳𝗹𝗼𝘄:
 <i>Git - Github - Bitbucket - GitLab - GitFlow - Trello</i>
@@ -18,10 +18,10 @@
 <i>UI/UX, SPA, SSG , SSR , StoryBooks</i>
 
 ### 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴:
-<i>GraphQL - Apollo Server/Client - CI/CD - DevOps - NextJs - Threejs</i>
+<i>GraphQL - Apollo Server/Client - CI/CD - DevOps - Threejs - React Query</i>
 
 ### 𝗦𝗵𝗼𝗿𝘁 𝗘𝘅𝗽𝗲𝗿𝗶𝗲𝗻𝗰𝗲:
-<i>Lua - PHP - React Native - Jenkins - Electron - SonarQube - Vast XML (Video Ads)  - PRISMA - NestJS -  Aws Cloud</i>
+<i>Lua - PHP - React Native - Jenkins - Electron - SonarQube - Vast XML (Video Ads) - NestJS - Aws Cloud</i>
 
 ### 𝗦𝗼𝗳𝘁 𝗦𝗸𝗶𝗹𝗹𝘀:
 <i>Criativity - Proativity- Adaptability - Emotional Intelligence - Colaboration - Critical Weighing - Learn and Learn</i>
