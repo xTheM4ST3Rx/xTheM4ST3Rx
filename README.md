@@ -1,33 +1,89 @@
-## 📚 Welcome to my profile !!
+# About Me
+## 🚀JavaScript Software Developer:
+Hello! I'm Edinan or "Edi" for you, I'm a enthusiast dedicated to turning ideas into code and crafting impactful digital experiences. As a software developer specializing in JavaScript, my journey is propelled by innovation and the relentless pursuit of elegant solutions to complex challenges.
 
-<img src="https://github.com/xTheM4ST3Rx/xTheM4ST3Rx/blob/main/bg.gif"/>
+## 🛠️ Technical Expertise:
+My primary focus is on developing modern and efficient applications in JavaScript, leveraging cutting-edge technologies. From building dynamic interfaces with React to crafting robust servers with Node.js, I have experience across the entire spectrum of web development.
 
-### 𝗠𝘆 𝗦𝘁𝗮𝗰𝗸:
-<i>𝙽𝚘𝚍𝚎𝙹S - 𝚁𝚎𝚊𝚌𝚝𝙹S - Prisma - Typescript - NextJS</i>
+## 🌐 Full Stack Development Experience:
+Understanding the importance of a comprehensive approach to software development, I have the expertise to create end-to-end solutions, from the presentation layer to the back end, providing a seamless experience for users.
 
-### 𝗠𝗼𝘀𝘁 𝘂𝘀𝗲𝗱 𝗶𝗻 𝗺𝘆 𝗽𝗿𝗼𝗷𝗲𝗰𝘁𝘀:
-<i>Javascript - Typescript  - WebSockets - Api's Restful - Redux - Hooks - JWT - Sequelize - Mongoose - HTML/CSS - Tailwind - TDD - Eslint - Prettier - Jest - Vite - Vitest- Vercel - Supabase</i>
+## 📈 Commitment to Quality:
+Code quality is a priority for me. I continually seek to refine my skills and follow industry best practices, ensuring that my applications stand out for their robustness and efficiency.
 
-### 𝗩𝗲𝗿𝘀𝗶𝗼𝗻𝗶𝗻𝗴 𝗮𝗻𝗱 𝗪𝗼𝗿𝗸𝗳𝗹𝗼𝘄:
-<i>Git - Github - Bitbucket - GitLab - GitFlow - Trello</i>
+# Skills
+## In my career so far as a Software eginner I have been able to acquire a lot of knowledge in some technologies, I have separated some of them below:
+
+### 𝗪𝗲𝗯 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗺𝗲𝗻𝘁:
+• Next
+• Nest
+• Node
+• React
+• Prisma
+• Express
+• MongoDB
+• MySql
+• Typescript
+• Tailwind
+• WebSockets
+• Resend
+• Redux
+• React Hooks
+• JWT
+• 2FA
+
+### 𝗩𝗲𝗿𝘀𝗶𝗼𝗻 𝗖𝗼𝗻𝘁𝗿𝗼𝗹 𝗮𝗻𝗱 𝗪𝗼𝗿𝗸𝗳𝗹𝗼𝘄:
+• Git
+• Github
+• Bitbucket
+• GitLab
+• GitFlow
 
 ### 𝗖𝗹𝗼𝘂𝗱 𝗘𝘅𝗽𝗲𝗿𝗶𝗲𝗻𝗰𝗲:
-<i>𝙰𝚣𝚞𝚛𝚎: (Storage , Mídia Services ,Encoder, SendGrid)</i>
+• Azure (Storage, Media Services, Encoder, SendGrid, CosmosDB)
 
 ### 𝗔𝗿𝗰𝗵𝗶𝘁𝗲𝗰𝘁𝘂𝗿𝗲 𝗮𝗻𝗱 𝗗𝗲𝘀𝗶𝗴𝗻:
-<i>UI/UX, SPA, SSG , SSR , StoryBooks</i>
+• UI/UX
+• SPA
+• SSG
+• SSR
+• Swagger
+• StoryBooks
 
-### 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴:
-<i>GraphQL - Apollo Server/Client - CI/CD - DevOps - Threejs - React Query</i>
+### 𝗖𝗼𝗻𝘁𝗶𝗻𝘂𝗼𝘂𝘀 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴:
+• CI/CD
+• Microservices
+• Microfrontends
+• Docker
+• DevOps
+• Java
+• SpringBoot
 
-### 𝗦𝗵𝗼𝗿𝘁 𝗘𝘅𝗽𝗲𝗿𝗶𝗲𝗻𝗰𝗲:
-<i>Lua - PHP - React Native - Jenkins - Electron - SonarQube - Vast XML (Video Ads) - NestJS - Aws Cloud</i>
+### 𝗕𝗿𝗶𝗲𝗳 𝗘𝘅𝗽𝗼𝘀𝘂𝗿𝗲 𝘁𝗼 𝗢𝘁𝗵𝗲𝗿 𝗧𝗲𝗰𝗵𝗻𝗼𝗹𝗼𝗴𝗶𝗲𝘀:
+• Lua
+• PHP
+• React Native
+• Jenkins
+• Electron
+• SonarQube
+• Vast XML (Video Ads)
+• AWS Cloud
+• Threejs
+• GraphQL
+• Apollo Server/Client
+• Supabase
+• Vercel
+
 
 ### 𝗦𝗼𝗳𝘁 𝗦𝗸𝗶𝗹𝗹𝘀:
-<i>Criativity - Proativity- Adaptability - Emotional Intelligence - Colaboration - Critical Weighing - Learn and Learn</i>
-
-## 📚 Repositories
-
+• Creativity
+• Proactivity
+• Adaptability
+• Emotional Intelligence
+• Collaboration
+• Comunication
+• Critical Thinking
+• Continuous Learning
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -36,18 +92,7 @@
   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  
   <img align="right" alt="Edy-pic" height="150" style="border-radius:50px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_JavaScript_logo_2.svg.png">
 </div>
 
-
-  ##
- 
-<div> 
- <a href="discord.gg/nYmStK4vcm" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href="https://www.linkedin.com/in/edinan-c-morais-43170a193/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
- 
-  
-
-  
+##
