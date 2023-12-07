@@ -1,4 +1,5 @@
 # About Me
+<img src="https://github.com/xTheM4ST3Rx/xTheM4ST3Rx/blob/main/FrameBG.jpg" alt=""/>
 ## 🚀JavaScript Software Developer:
 Hello! I'm Edinan or "Edi" for you, I'm a enthusiast dedicated to turning ideas into code and crafting impactful digital experiences. As a software developer specializing in JavaScript, my journey is propelled by innovation and the relentless pursuit of elegant solutions to complex challenges.
 
