@@ -40,7 +40,8 @@ Code quality is a priority for me. I continually seek to refine my skills and fo
 • GitFlow
 
 ### 🎯 𝗖𝗹𝗼𝘂𝗱 𝗘𝘅𝗽𝗲𝗿𝗶𝗲𝗻𝗰𝗲:
-• Azure (Storage, Media Services, Encoder, SendGrid, CosmosDB)
+• Microsoft Azure (Storage, Media Services, Encoder, SendGrid, CosmosDB)
+• Google Cloud Plataform (SQL, Clound Run)
 
 ### 🎯 𝗔𝗿𝗰𝗵𝗶𝘁𝗲𝗰𝘁𝘂𝗿𝗲 𝗮𝗻𝗱 𝗗𝗲𝘀𝗶𝗴𝗻:
 • UI/UX
