@@ -96,4 +96,30 @@ Code quality is a priority for me. I continually seek to refine my skills and fo
   <img align="right" alt="Edy-pic" height="150" style="border-radius:50px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_JavaScript_logo_2.svg.png">
 </div>
 
-##
+
+### 🏆 GitHub Profile Trophy
+
+<p align="center">
+  <a
+    href="https://github.com/ryo-ma/github-profile-trophy"
+    title="repositório de troféus"
+  >
+    <img
+      width="800"
+      src="https://github-profile-trophy.vercel.app/?username=xTheM4ST3Rx&column=8&theme=darkhub&no-frame=true&no-bg=true"
+    />
+  </a>
+</p>
+
+---
+
+<div align="center">
+  <h3><b>📍 Profile Visitor Count</b></h3>
+</div>
+
+<p align="center">
+  <img
+    src="https://profile-counter.glitch.me/xTheM4ST3Rx/count.svg"
+    alt="Número de visitantes no perfil"
+  />
+</p>
